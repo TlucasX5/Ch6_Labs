@@ -142,7 +142,7 @@ footer a {
 }
 
 /* Media Query for Tablet Viewport */
-@media screen and (min-width: 620px), print {
+@media screen and (min-width: 621px), print {
 
     /* Tablet Viewport: Show tab-desk class, hide mobile class */
     .tab-desk {
@@ -167,7 +167,7 @@ footer a {
 }
 
 /* Media Query for Desktop Viewport */
-@media screen and (min-width: 1000px), print {
+@media screen and (min-width: 999px), print {
 
     /* Desktop Viewport: Style rules  for the nav area */
     nav li {
@@ -215,5 +215,5 @@ footer a {
         background-color: #fff;
         color: #000;
     }
-    
+
 }
