@@ -161,7 +161,7 @@ footer a {
         border-top: none;
         display: inline-block;
         font-size: 1.5em;
-        border-right: 1px solid #e5e90fc;
+        border-right: 1px solid #e5e0fc;
     }
 
     nav li:last-child {
@@ -220,7 +220,7 @@ footer a {
 
     body {
         background-color: #fff;
-        color: 000;
+        color: #000;
     }
 
 }
